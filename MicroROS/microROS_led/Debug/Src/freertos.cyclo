@@ -1,0 +1,8 @@
+../Src/freertos.c:131:6:MX_FREERTOS_Init	1
+../Src/freertos.c:170:6:timer_callback	4
+../Src/freertos.c:198:5:_gettimeofday	1
+../Src/freertos.c:206:6:led_control_callback	1
+../Src/freertos.c:212:6:fade_speed_callback	3
+../Src/freertos.c:219:6:custom_message_callback	2
+../Src/freertos.c:235:6:StartDefaultTask	1
+../Src/freertos.c:331:6:StartTask02	3
